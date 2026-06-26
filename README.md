@@ -31,6 +31,7 @@ By Day 15 **Variant A** earn the most total money.
 | -------- | ------- |
 | A | \$42748.27752  |
 | B | \$39140.19396  |
+
 ### c) If we look at the **total money earned by Day 30** instead, does our choice change?
 No It doesn't change our choice, still **Variant A** has better monetization.
 | Variant    | Experiment Day 30 Revenue |
@@ -51,6 +52,7 @@ This still doesn't change the result, **Variant A** is better by day 30.
 ● Variant A (New): $Retention = 0.58 \cdot e^{-0.12(x-1)}$
 
 ● Variant B (New): $Retention = 0.52 \cdot e^{-0.10(x-1)}$
+
 I used these functions to create retention rates from day 1 to day 120. And after day 20  I started to use these retentions for the specified part of the cohorts. Below are the charts for the revenue with the new cohort.
 ![Image](./img/task_1/rev_with_new_cohort.png)
 | Variant    | Experiment Day 30 Revenue |
