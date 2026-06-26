@@ -27,6 +27,7 @@ According to my interpolation **Variant B** will have more DAU by day 15.
 ### b) Which variant will earn the **most total money** by Day 15?
 - Assumptions is `DAU * Daily Purchase Ratio` gives Daily IAP revenue and `(DAU * eCPM * (Ad Impression/DAU) ) /1000)` gives the Ad Revenue.
 By Day 15 **Variant A** earn the most total money.
+
 | Variant    | Experiment Day 15 Revenue |
 | -------- | ------- |
 | A | \$42748.27752  |
@@ -42,6 +43,7 @@ No It doesn't change our choice, still **Variant A** has better monetization.
 (I'm assuming Daily Purchase Ratios for Variant A goes from `0.0305` to `0.0405`. Not a 1% increase like `0.030805`)
 After changing the purchases rates from day 15 to day 24, below is the new revenue charts.
 ![Image](./img/task_1/rev_with_sale.png)
+
 This still doesn't change the result, **Variant A** is better by day 30.
 | Variant    | Experiment Day 30 Revenue |
 | -------- | ------- |
