@@ -9,6 +9,9 @@ voila = "*"
 pandas = "*"
 scipy = "*"
 matplotlib = "*"
+seaborn = "*"
+jupyter-capture-output = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
